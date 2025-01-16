@@ -1,3 +1,10 @@
-td {
-  color: aquamarine;
+.hehe {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: 1px solid black;
+  margin-left: -30px;
+}
+#ba {
+  margin: 0px;
 }
